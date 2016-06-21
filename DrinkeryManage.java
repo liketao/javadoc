@@ -9,6 +9,7 @@ import javax.swing.UIManager;
 import com.mwq.frame.LandFrame;
 import com.mwq
 import com.mwq.frame
+import com
 public class DrinkeryManage {
     public DrinkeryManage() {
         // Center the window
